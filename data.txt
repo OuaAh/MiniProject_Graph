@@ -1,0 +1,13 @@
+nombre_noeuds
+10
+precedences
+1 2
+1 6
+2 5
+2 7
+3 6
+4 8
+5 9
+6 10
+7 9
+8 10
